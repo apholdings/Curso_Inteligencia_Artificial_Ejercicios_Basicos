@@ -1,0 +1,2 @@
+http://cs.stanford.edu/people/alecmgo/trainingandtestdata.zip
+http://www.statmt.org/europarl/
